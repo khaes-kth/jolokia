@@ -428,7 +428,7 @@ public class StringToOpenTypeConverterTest {
 
             @Override
             public String toString() {
-                return null;
+                return "";
             }
         },"bla");
     }
